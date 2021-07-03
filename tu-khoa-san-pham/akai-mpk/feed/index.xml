@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AKAI MPK &#8211; HYPERSHOP</title>
+	<atom:link href="http://localhost/wordpress/tu-khoa-san-pham/akai-mpk/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dangnhuthao1409.github.io/hypershop</link>
+	<description>Sounds like music.</description>
+	<lastBuildDate>Mon, 28 Jun 2021 06:57:51 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>MIDI CONTROLLER AKAI MPK MINI MK3</title>
+		<link>https://dangnhuthao1409.github.io/hypershop/product/akai-mpk-mini-mk3/</link>
+					<comments>https://dangnhuthao1409.github.io/hypershop/product/akai-mpk-mini-mk3/#respond</comments>
+		
+		<dc:creator><![CDATA[dangnhuthao]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 01:40:52 +0000</pubDate>
+				<guid isPermaLink="false">https://dangnhuthao1409.github.io/hypershop/?post_type=product&#038;p=63</guid>
+
+					<description><![CDATA[AKAI MPK MINI MK3 Là phiên bản mới của sản phẩm được yêu thích nhất của Akai, với 25 phím loại nhỏ (mini) dạng Synth-action. MPK Mini mkII được nâng cấp cần bốn chiều Thumstick để chơi pitch và modulation. Sản phẩm là lựa chọn tuyệt vời cho nhu cầu biểu diễn và sáng tác lưu động.]]></description>
+										<content:encoded><![CDATA[<h3>Tổng quan tính năng:</h3>
+<ul>
+<li>25 phím nhỏ (mini) dạng Synth-action chắc chắn và độ bền cao với cảm ứng phím tốt</li>
+<li>8 pad cảm ứng tôt dạng MPC với nâng cấp hiện thị sáng, 2 bank cho phép sử dụng tới 16 pad.</li>
+<li>8 knob cho phép gán tự do trên phần mềm thông qua trình Q-Link</li>
+<li>Chức năng tăng giảm octave</li>
+<li>Có thể sử dụng với tất cả phần mềm trên PC và MAC</li>
+<li>Cổng kết nối Sustain và USB.</li>
+<li>Nguồn điện: sử dụng từ cổng nối USB máy tính, không cần nguồn ngoài</li>
+<li>Phần mềm đi kèm: Akai Pro MPC Essentials, SONiVOX Wobble, and Hybrid 3 by AIR Music Tech (miễn phí download)</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dangnhuthao1409.github.io/hypershop/product/akai-mpk-mini-mk3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

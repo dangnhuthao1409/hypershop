@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NATIVE INSTRUMENTS KOMPLETE KONTROL A61 &#8211; HYPERSHOP</title>
+	<atom:link href="http://localhost/wordpress/tu-khoa-san-pham/native-instruments-komplete-kontrol-a61/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dangnhuthao1409.github.io/hypershop</link>
+	<description>Sounds like music.</description>
+	<lastBuildDate>Sat, 03 Jul 2021 03:57:04 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>MIDI Controller NATIVE INSTRUMENTS KOMPLETE KONTROL A61</title>
+		<link>https://dangnhuthao1409.github.io/hypershop/product/midi-controller-native-instruments-komplete-kontrol-a61/</link>
+					<comments>https://dangnhuthao1409.github.io/hypershop/product/midi-controller-native-instruments-komplete-kontrol-a61/#respond</comments>
+		
+		<dc:creator><![CDATA[dangnhuthao]]></dc:creator>
+		<pubDate>Wed, 30 Jun 2021 02:20:34 +0000</pubDate>
+				<guid isPermaLink="false">https://dangnhuthao1409.github.io/hypershop/?post_type=product&#038;p=165</guid>
+
+					<description><![CDATA[Bàn phím midi keyboard 61 phím tích hợp điều khiển thông minh phần mềm tiếng Maschine, Komplete, NKS plugins và các phần mềm sản xuất phổ biến như Logic X, GarageBand, Ableton Live, Cubase và Nuendo.]]></description>
+										<content:encoded><![CDATA[<h3><strong>Đặc điểm tính năng của Komplete Kontrol A61:</strong></h3>
+<ul>
+<li>Số phím: 61</li>
+<li>Kiểu phím đàn: Semi-weighted</li>
+<li>Số núm điều khiển: 8</li>
+<li>Điều khiển Transport: có</li>
+<li>Bend/Pitch: dạng bánh xe cơ</li>
+<li>Ngõ ra pedal: Expression và Sustain có thể thiết lập</li>
+<li>Hệ điều hành: PC window 10 (latest Service Pack)</li>
+<li>Hệ điều hành Mac: OS 10.12, 10.13 (latest update)</li>
+</ul>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://dangnhuthao1409.github.io/hypershop/product/midi-controller-native-instruments-komplete-kontrol-a61/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
